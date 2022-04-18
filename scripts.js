@@ -118,6 +118,7 @@ function mandarmensage(){
  document.querySelector(".digitar").value="";
 }
 
+
 function tratarError1(error) {
   alert("Vc já nao esta online");
   mandarmensage();
